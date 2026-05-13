@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@elevenlabs/react": "latest",
     "framer-motion": "latest",
     "react": "latest",
     "react-dom": "latest"
